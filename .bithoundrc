@@ -1,5 +1,5 @@
 {
   "ignore": [
-    "**/mocha.js",
+    "**/mocha.js"
   ]
 }
